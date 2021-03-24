@@ -126,11 +126,11 @@
     }
     .gamemenuimg {
         width: 46%;
-        height: auto;
+        height: 120px;
         margin-top: 20px;
         margin-left: auto;
         margin-right: auto;
-        display: inline-block;
+        display: block;
     }
     .promotionlayout {
         width: 100%;
@@ -141,7 +141,7 @@
         margin-top: 20px;
         margin-left: auto;
         margin-right: auto;
-        display: inline-block;
+        display: block;
         padding-left: 0px;
         padding-right: 0px;
         border-radius: 30px;
@@ -155,6 +155,7 @@
         height: auto;
         margin-left: auto;
         margin-right: auto;
+        display: block;
     }
     .demogamerow {
         width: 100%
@@ -164,6 +165,7 @@
         height: auto;
         margin-left: auto;
         margin-right: auto;
+        display: block;
     }
     .mobilemenu {
         background: rgb(67, 151, 141);
