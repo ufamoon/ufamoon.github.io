@@ -1,4 +1,4 @@
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 350px) {
     .navbar-nav {
         display: none;
     }
@@ -37,7 +37,7 @@
     }
     .buttonhead {
         margin-top: 10px;
-        font-size: 15px;
+        font-size: 12px;
         background: #F5C552;
         border-radius: 15px;
         border: none;
@@ -78,7 +78,7 @@
         display: block;
     }
     .logo {
-        width: 120px;
+        width: 100px;
         height: auto;
     }
     .bgslide {
@@ -125,8 +125,8 @@
         font-size: 18px;
     }
     .gamemenuimg {
-        width: 180px;
-        height: 120px;
+        width: 150px;
+        height: 100px;
         margin-top: 20px;
         margin-left: auto;
         margin-right: auto;
@@ -159,7 +159,7 @@
         width: 100%;
     }
     .demogameimg {
-        width: 150px;
+        width: 120px;
         height: 180px;
         margin-left: auto;
         margin-right: auto;
