@@ -77,9 +77,10 @@ body {
 }
 
 .bgslide {
-    background-image: url("/asset/72bgmoon.png");
+    background-image: url("/asset/bgmoon.png");
     width: 100%;
-    height: 450px;
+    background-size: 1920px 440px;
+    background-repeat: no-repeat;
 }
 
 .imgslide {
@@ -91,9 +92,9 @@ body {
 }
 
 .rune {
-    background-image: url("/asset/1920runes.png");
+    background-image: url("#");
     width: 100%;
-    height: auto;
+    height: 20px;
     margin-bottom: 60px;
 }
 

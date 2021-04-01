@@ -82,12 +82,13 @@
         height: auto;
     }
     .bgslide {
-        background-image: url("/asset/72bgmoon.png");
+        background-image: url("/asset/320_200.png");
         width: 100%;
         height: auto;
+        background-size: 320px 128px;
     }
     .rune {
-        background-image: url("/asset/1920runes.png");
+        background-image: url("#");
         width: 100%;
         height: auto;
         margin-bottom: 20px;
